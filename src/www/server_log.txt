@@ -1,0 +1,98 @@
+2017-11-10/07:06:27	DELETE		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:29	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:32	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:35	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:35	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:38	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:38	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:40	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:40	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:45	GET		/jugg.png		HTTP/1.1 404 Not Found
+2017-11-10/07:06:48	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:51	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:52	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:56	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:56	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:57	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:57	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:58	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:58	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:06:59	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:06:59	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:07:00	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:07:00	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:07:00	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:07:00	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:08:47	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:08:47	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:08:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:08:50	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:08:51	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:08:51	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:08:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:08:52	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:08:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:08:53	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:11:45	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:45	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:11:47	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:51	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:51	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:11:54	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:47	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:47	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:48	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:48	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:48	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:48	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:49	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:49	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:51	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:51	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:52	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:52	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:53	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:54	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:54	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:54	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:54	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:54	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:56	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:13:56	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:13:56	GET		/favicon.ico		HTTP/1.1 200 OK
+2017-11-10/07:14:19	GET		/server_log.		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:30:57	GET		/index.html		HTTP/1.1 200 OK
+2017-11-10/07:30:59	GET		/page2.html		HTTP/1.1 200 OK
+2017-11-10/07:30:59	GET		/beer.jpg		HTTP/1.1 200 OK
+2017-11-10/07:30:59	GET		/tp_it.jpg		HTTP/1.1 200 OK
+2017-11-10/07:31:05	GET		/jugg.png		HTTP/1.1 200 OK
+2017-11-10/07:31:10	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/07:31:12	GET		/jugg.		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:31:15	GET		/jugg.a		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/07:31:20	GET		/jug.gif		HTTP/1.1 404 Not Found
+2017-11-10/07:31:30	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:31:37	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/07:31:41	GET		/server_log.txt		HTTP/1.1 200 OK

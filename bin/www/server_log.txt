@@ -1,0 +1,9 @@
+2017-11-10/06:52:14	DELETE		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:52:20	G8ET		/server_log.txt		HTTP/1.1 501 Not Implemented
+2017-11-10/06:52:30	GET		/server_lg.txt		HTTP/1.1 404 Not Found
+2017-11-10/06:52:45	GET		/index.html		HTTP/1.1 200 OK
+2017-11-10/06:52:45	GET		/favicon.ico		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/06:52:47	GET		/page2.html		HTTP/1.1 200 OK
+2017-11-10/06:52:47	GET		/tp_it.jpg		HTTP/1.1 200 OK
+2017-11-10/06:52:47	GET		/beer.jpg		HTTP/1.1 200 OK
+2017-11-10/06:52:49	GET		/index.html		HTTP/1.1 200 OK

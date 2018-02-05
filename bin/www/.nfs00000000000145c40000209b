@@ -1,0 +1,51 @@
+2017-11-10/06:05:30	DELETE		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:05:36	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:05:44	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:05:55	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:06:08	GET		/jugg.png		HTTP/1.1 404 Not Found
+2017-11-10/06:06:13	GET		/jugg.gif		HTTP/1.1 404 Not Found
+2017-11-10/06:06:20	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:06:24	GET		/jugg.png		HTTP/1.1 200 OK
+2017-11-10/06:32:26	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:30	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:33	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:42	GET		/index.html		HTTP/1.1 200 OK
+2017-11-10/06:32:43	GET		/page2.html		HTTP/1.1 200 OK
+2017-11-10/06:32:43	GET		/tp_it.jpg		HTTP/1.1 200 OK
+2017-11-10/06:32:43	GET		/beer.jpg		HTTP/1.1 200 OK
+2017-11-10/06:32:47	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:52	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:53	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:32:57	GET		/server_log.tx		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/06:33:02	GET		/server_loga.txt		HTTP/1.1 404 Not Found
+2017-11-10/06:33:06	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:09	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:11	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:14	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:15	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:15	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:33:21	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:33:24	GET		/jugg.png		HTTP/1.1 200 OK
+2017-11-10/06:33:29	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:34:34	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:34:37	GET		/jugg.png		HTTP/1.1 200 OK
+2017-11-10/06:34:42	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:34:50	GET		/server_log.txt		HTTP/1.1 200 OK
+2017-11-10/06:34:56	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:01	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:09	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:15	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:20	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:26	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:33	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:39	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:47	GET		/jugg.gif		HTTP/1.1 200 OK
+2017-11-10/06:35:55	GET		/index.html		HTTP/1.1 200 OK
+2017-11-10/06:35:57	GET		/page2.html		HTTP/1.1 200 OK
+2017-11-10/06:35:57	GET		/tp_it.jpg		HTTP/1.1 200 OK
+2017-11-10/06:35:57	GET		/beer.jpg		HTTP/1.1 200 OK
+2017-11-10/06:36:03	GET		/server_log.tx		HTTP/1.1 415 Unsupported Media Type
+2017-11-10/06:36:10	GET		/server_log.txt		HTTP/1.1 200 OK
